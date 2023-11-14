@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\bin\Debug\net6.0-windows\Calculator_Hekwas.exe
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\bin\Debug\net6.0-windows\Calculator_Hekwas.deps.json
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\bin\Debug\net6.0-windows\Calculator_Hekwas.runtimeconfig.json
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\bin\Debug\net6.0-windows\Calculator_Hekwas.dll
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\bin\Debug\net6.0-windows\Calculator_Hekwas.pdb
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.Form1.resources
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.AssemblyInfo.cs
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.dll
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\refint\Calculator_Hekwas.dll
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.pdb
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\Calculator_Hekwas.genruntimeconfig.cache
+C:\Users\admin\Desktop\App C#\Calculator_Hekwas\Calculator_Hekwas\obj\Debug\net6.0-windows\ref\Calculator_Hekwas.dll
